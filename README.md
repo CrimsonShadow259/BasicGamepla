@@ -1,1 +1,1 @@
-# BasicGamepla
+# BasicGameplay
